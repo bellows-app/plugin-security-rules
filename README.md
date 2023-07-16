@@ -1,3 +1,3 @@
-# plugin-security-rules
+# Bellows Security Rules Plugin
 
-[https://bellows.dev](https://bellows.dev)
+[https://bellows.dev/docs/plugins/security-rules](https://bellows.dev/docs/plugins/security-rules)
